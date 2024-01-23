@@ -1,0 +1,110 @@
+[+] Containers:
+ |- [+] Container: /Game/HENRY_LEVEL/GreyBox_WP
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:1F039E5F4A269BE8EAB31EAC62C5FD53 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_1C697ABD42D3C2D001_1651303957 Label:Mesh_Owl SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1132.437 Y=-662.269 Z=112.500), Max=(X=-1067.563 Y=-577.731 Z=210.116) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:27ECF1054666F6665E6D3D93EFE99328 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_1C697ABD42D3C2D001_1090755953 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-370.000), Max=(X=0.000 Y=0.000 Z=-370.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:46E8909A45BBDAE2918F5F97E9C20C6F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_1C697ABD42D3C2D001_1092044955 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-340.000), Max=(X=0.000 Y=0.000 Z=-340.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:48D416F946BFA0472C790CA299AE443F BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:4AF66F024BDC9EF90F9AF6A9091EE4C9 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_1C697ABD42D3C2D001_1088560951 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-380.000), Max=(X=0.000 Y=0.000 Z=-380.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6818576D45BDE571FAF659A6C8852A5D BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_1C697ABD42D3C2D001_1091528954 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-330.000), Max=(X=0.000 Y=0.000 Z=-330.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B51114204776B1D8CF3E73BF5311C824 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_1C697ABD42D3C2D001_1323287956 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-710.000 Y=-50.000 Z=10.000), Max=(X=-630.000 Y=30.000 Z=194.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F0732E2649CAAD31794A1FBD8FFE1E55 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_1C697ABD42D3C2D001_1090039952 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:1F039E5F4A269BE8EAB31EAC62C5FD53 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_1C697ABD42D3C2D001_1651303957 Label:Mesh_Owl SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1132.437 Y=-662.269 Z=112.500), Max=(X=-1067.563 Y=-577.731 Z=210.116) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:27ECF1054666F6665E6D3D93EFE99328 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_1C697ABD42D3C2D001_1090755953 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-370.000), Max=(X=0.000 Y=0.000 Z=-370.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:46E8909A45BBDAE2918F5F97E9C20C6F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_1C697ABD42D3C2D001_1092044955 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-340.000), Max=(X=0.000 Y=0.000 Z=-340.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:48D416F946BFA0472C790CA299AE443F BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:4AF66F024BDC9EF90F9AF6A9091EE4C9 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_1C697ABD42D3C2D001_1088560951 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-380.000), Max=(X=0.000 Y=0.000 Z=-380.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:6818576D45BDE571FAF659A6C8852A5D BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_1C697ABD42D3C2D001_1091528954 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-330.000), Max=(X=0.000 Y=0.000 Z=-330.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:B51114204776B1D8CF3E73BF5311C824 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_1C697ABD42D3C2D001_1323287956 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-710.000 Y=-50.000 Z=10.000), Max=(X=-630.000 Y=30.000 Z=194.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:F0732E2649CAAD31794A1FBD8FFE1E55 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_1C697ABD42D3C2D001_1090039952 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-1132.437 Y=-662.269 Z=112.500), Max=(X=-1067.563 Y=-577.731 Z=210.116)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/HENRY_LEVEL/GreyBox_WP
+----------------------------------------------------------------------------------------------------------------
+GreyBox_WP - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of GreyBox_WP Persistent Level
+ |- Always loaded Actor Count: 23 
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.Brush_0
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.Brush_1
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.Brush_2
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.Brush_3
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.Brush_6
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.Brush_7
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.Brush_8
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.Brush_9
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.Brush_10
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.Brush_11
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.DirectionalLight_UAID_1C697ABD42D3C2D001_1090039952
+ |- Actor Package: /Game/__ExternalActors__/HENRY_LEVEL/GreyBox_WP/A/JW/0AE1Z3ZIAFRN8WCJLI9Q1W
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.ExponentialHeightFog_UAID_1C697ABD42D3C2D001_1092044955
+ |- Actor Package: /Game/__ExternalActors__/HENRY_LEVEL/GreyBox_WP/4/QW/4DAF15DG8SAZBDB4TUUFXZ
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.PlayerStart_UAID_1C697ABD42D3C2D001_1323287956
+ |- Actor Package: /Game/__ExternalActors__/HENRY_LEVEL/GreyBox_WP/7/G4/72F17YU661SNYZIGPA00PX
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.SkyAtmosphere_UAID_1C697ABD42D3C2D001_1090755953
+ |- Actor Package: /Game/__ExternalActors__/HENRY_LEVEL/GreyBox_WP/B/H5/PX81A2B5CUL1OR9ICMV4BG
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.SkyLight_UAID_1C697ABD42D3C2D001_1088560951
+ |- Actor Package: /Game/__ExternalActors__/HENRY_LEVEL/GreyBox_WP/E/42/48QE7IWQCJ8NX7DC0IAVY3
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.StaticMeshActor_UAID_1C697ABD42D3C2D001_1651303957
+ |- Actor Package: /Game/__ExternalActors__/HENRY_LEVEL/GreyBox_WP/6/NN/YJRUSJKS6N42BQJ88FJ6LL
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.VolumetricCloud_UAID_1C697ABD42D3C2D001_1091528954
+ |- Actor Package: /Game/__ExternalActors__/HENRY_LEVEL/GreyBox_WP/D/RI/3J0D830D7BMR78KSIVVAKK
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/HENRY_LEVEL/GreyBox_WP/2/A3/KSUOC7F78D0AQ7GN0HC1P1
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/HENRY_LEVEL/GreyBox_WP/B/LH/6Q0F10HXEESGDFLOD9B3GL
+ |- Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/HENRY_LEVEL/GreyBox_WP
+
+----------------------------------------------------------------------------------------------------------------
+GreyBox_WP - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-1132.437 Y=-662.269 Z=112.500), Max=(X=-1067.563 Y=-577.731 Z=210.116)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count    1 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell GreyBox_WP_MainGrid_L0_X0_Y0 (0PX6TDVZY82DO7KJ1V5GE7EUH)
+ |   |- Actor Count: 1
+ |   |-          Actor Path: /Game/HENRY_LEVEL/GreyBox_WP.GreyBox_WP:PersistentLevel.StaticMeshActor_UAID_1C697ABD42D3C2D001_1651303957
+ |   |-       Actor Package: /Game/__ExternalActors__/HENRY_LEVEL/GreyBox_WP/6/NN/YJRUSJKS6N42BQJ88FJ6LL
+ |   |- Actor Instance Guid: 1F039E5F4A269BE8EAB31EAC62C5FD53
+[+] Content of Grid Level 1
+
