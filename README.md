@@ -1,3 +1,2 @@
 # Capy-Park
-First-person puzzle game for all ages
-Senior Capstone project
+To run : Open unreal project in download folder
